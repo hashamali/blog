@@ -1,4 +1,4 @@
-baseurl = "http://hashamali.github.io/"
+baseurl = "http://hashamali.github.io/blog"
 title = "hasham ali"
 canonifyurls = true
 paginate = 15
