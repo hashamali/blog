@@ -1,0 +1,28 @@
+baseurl = "http://hashamali.github.io/"
+title = "hasham ali"
+canonifyurls = true
+paginate = 15
+languageCode = "en-us"
+
+[author]
+  name = "Hasham Ali"
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "random projects"
+  Author = "Hasham Ali"
+  email = "hasham8888@gmail.com"
+  Ganalytics = "UA-67435574-1"
+
+[[params.social]]
+  title = "github"
+  url = "https://github.com/hashamali"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -180
