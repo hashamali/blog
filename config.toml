@@ -9,7 +9,7 @@ languageCode = "en-us"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "random projects"
+  Description = "projects and concepts"
   Author = "Hasham Ali"
   email = "hasham8888@gmail.com"
   Ganalytics = "UA-67435574-1"
@@ -17,6 +17,10 @@ languageCode = "en-us"
 [[params.social]]
   title = "github"
   url = "https://github.com/hashamali"
+
+[[params.social]]
+  title = "linkedin"
+  url = "https://www.linkedin.com/in/hashamali"
 
 [[menu.main]]
   name = "home"
